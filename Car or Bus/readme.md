@@ -17,13 +17,13 @@ For each test case, print CAR if travelling with Car is faster, BIKE if travelli
 1≤T≤100  
 1≤X,Y≤10  
 
-**Sample Input 1** 
+**Sample Input**   
 3  
 1 5  
 4 2  
 6 6  
 
-**Sample Output 1**   
+**Sample Output**   
 BIKE  
 CAR  
 SAME  
