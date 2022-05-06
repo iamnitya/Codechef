@@ -4,4 +4,4 @@ for i in range(test_cases):
     if A>=B:
         print("YES")
     else:
-        print("NO")
+        print('NO')
